@@ -9,7 +9,7 @@ Summary:	Text::Soundex - Implementation of the soundex algorithm
 Summary(pl.UTF-8):	Text::Soundex - implementacja algorytmu soundex
 Name:		perl-Text-Soundex
 Version:	3.05
-Release:	1
+Release:	2
 License:	free (see COPYING)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Text/%{pdir}-%{pnam}-%{version}.tar.gz
