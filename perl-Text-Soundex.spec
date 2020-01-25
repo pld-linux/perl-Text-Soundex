@@ -4,7 +4,6 @@
 #
 %define		pdir	Text
 %define		pnam	Soundex
-%include	/usr/lib/rpm/macros.perl
 Summary:	Text::Soundex - Implementation of the soundex algorithm
 Summary(pl.UTF-8):	Text::Soundex - implementacja algorytmu soundex
 Name:		perl-Text-Soundex
