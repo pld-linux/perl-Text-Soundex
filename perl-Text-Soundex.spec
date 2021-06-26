@@ -13,9 +13,10 @@ License:	free (see COPYING)
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Text/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	cb40ded7a5d27aa3a411d274d6ec18ae
-URL:		http://search.cpan.org/dist/Text-Soundex/
+URL:		https://metacpan.org/dist/Text-Soundex
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
+BuildRequires:	rpmbuild(macros) >= 1.745
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
